@@ -1,0 +1,3 @@
+[submodule "dhall-docker-compose"]
+	path = dhall-docker-compose
+	url = https://github.com/sbdchd/dhall-docker-compose.git
